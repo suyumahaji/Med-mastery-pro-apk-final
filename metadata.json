@@ -1,0 +1,8 @@
+{
+  "name": "Med Mastery Pro",
+  "description": "Production Ready Clinical Accelerator for USMLE, NEET-PG, and ERMP",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
