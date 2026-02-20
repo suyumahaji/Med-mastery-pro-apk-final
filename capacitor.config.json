@@ -1,10 +1,1 @@
-
-{
-  "appId": "com.medmastery.pro",
-  "appName": "Med Mastery Pro",
-  "webDir": "dist",
-  "bundledWebRuntime": false,
-  "server": {
-    "androidScheme": "https"
-  }
-}
+npm install
